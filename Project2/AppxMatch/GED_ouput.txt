@@ -1,0 +1,1650 @@
+'eboston'
+boston
+0.833333
+'settle'
+seattle
+0.833333
+'eboston'
+boston
+0.916667
+'washingtondc'
+washington dc
+0.833333
+'settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.833333
+'settle'
+seattle
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.833333
+'settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.833333
+'Settle'
+seattle
+0.833333
+'Settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.833333
+'settle'
+seattle
+0.833333
+'settle'
+seattle
+0.875000
+'SanDiego'
+san diego
+0.833333
+'Seatle'
+seattle
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.833333
+'Settle'
+seattle
+0.833333
+'settle'
+seattle
+0.875000
+'SanDiego'
+san diego
+0.833333
+'settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.833333
+'settle'
+seattle
+0.857143
+'Seattles'
+seattle
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.833333
+'settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.833333
+'settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.857143
+'houstons'
+houston
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.833333
+'settle'
+seattle
+0.900000
+'jwashington'
+washington
+0.900000
+'jwashington'
+washington
+0.900000
+'jwashington'
+washington
+0.900000
+'jwashington'
+washington
+0.875000
+'SanDiego'
+san diego
+0.833333
+'BOSTONS'
+boston
+0.875000
+'SanDiego'
+san diego
+0.857143
+'jseattle'
+seattle
+0.857143
+'jseattle'
+seattle
+0.875000
+'SanDiego'
+san diego
+0.857143
+'seattled'
+seattle
+0.833333
+'settle'
+seattle
+0.916667
+'washingtondc'
+washington dc
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.833333
+'settle'
+seattle
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.833333
+'BostonB'
+boston
+0.833333
+'BostonB'
+boston
+0.833333
+'BostonB'
+boston
+0.916667
+'washingtondc'
+washington dc
+0.875000
+'SanDiego'
+san diego
+0.833333
+'settle'
+seattle
+0.916667
+'washingtondc'
+washington dc
+0.833333
+'ouston'
+houston
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.916667
+'washingtondc'
+washington dc
+0.916667
+'washingtondc'
+washington dc
+0.875000
+'sandiego'
+san diego
+0.833333
+'settle'
+seattle
+0.833333
+'settle'
+seattle
+0.916667
+'washingtondc'
+washington dc
+0.916667
+'washingtondc'
+washington dc
+0.857143
+'jseattle'
+seattle
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.833333
+'settle'
+seattle
+0.875000
+'SanDiego'
+san diego
+0.833333
+'settle'
+seattle
+0.833333
+'settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.833333
+'settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.833333
+'Settle'
+seattle
+0.833333
+'settle'
+seattle
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.888889
+'Washinton'
+washington
+0.875000
+'sandiego'
+san diego
+0.900000
+'washingtion'
+washington
+0.833333
+'settle'
+seattle
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.833333
+'settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.888889
+'Wasington'
+washington
+0.875000
+'sandiego'
+san diego
+0.916667
+'washingtondc'
+washington dc
+0.833333
+'settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.833333
+'settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.833333
+'SETTLE'
+seattle
+0.875000
+'SanDiego'
+san diego
+0.857143
+'jseattle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.916667
+'washingtondc'
+washington dc
+0.875000
+'SanDiego'
+san diego
+0.916667
+'washingtondc'
+washington dc
+0.857143
+'khouston'
+houston
+0.916667
+'washingtondc'
+washington dc
+0.875000
+'sandiego'
+san diego
+0.833333
+'Seatle'
+seattle
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.916667
+'washingtondc'
+washington dc
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.916667
+'washingtondc'
+washington dc
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SANDIEGO'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.857143
+'jseattle'
+seattle
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.857143
+'UHouston'
+houston
+0.875000
+'SanDiego'
+san diego
+0.833333
+'settle'
+seattle
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.857143
+'SeattleU'
+seattle
+0.833333
+'Houson'
+houston
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.857143
+'SeattleU'
+seattle
+0.875000
+'sandiego'
+san diego
+0.916667
+'washingtondc'
+washington dc
+0.833333
+'settle'
+seattle
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.857143
+'seattleu'
+seattle
+0.833333
+'settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.857143
+'Houstons'
+houston
+0.833333
+'settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.857143
+'SeattleU'
+seattle
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.833333
+'Settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.833333
+'bostons'
+boston
+0.857143
+'seattleu'
+seattle
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.833333
+'settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.833333
+'settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.833333
+'settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.833333
+'settle'
+seattle
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.833333
+'settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.857143
+'jseattle'
+seattle
+0.857143
+'jseattle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.857143
+'jseattle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.857143
+'jseattle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.833333
+'settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.833333
+'settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.833333
+'settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.833333
+'settle'
+seattle
+0.833333
+'settle'
+seattle
+0.833333
+'settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'SanDiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.833333
+'Seattl'
+seattle
+0.875000
+'sandiego'
+san diego
+0.833333
+'settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.900000
+'jwashington'
+washington
+0.900000
+'jwashington'
+washington
+0.875000
+'sandiego'
+san diego
+0.833333
+'settle'
+seattle
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.900000
+'Washingston'
+washington
+0.833333
+'settle'
+seattle
+0.833333
+'Settle'
+seattle
+0.833333
+'settle'
+seattle
+0.833333
+'settle'
+seattle
+0.900000
+'WashingtonJ'
+washington
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+0.875000
+'sandiego'
+san diego
+time: 14467.228208065033 seconds.
